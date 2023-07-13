@@ -1,0 +1,13 @@
+{
+    "restartable": "rs",
+    "watch": [
+        "src/"
+    ],
+    "execMap": {
+        "ts": "ts-node --esm"
+    },
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "ext": "js,jsno,ts"
+}
